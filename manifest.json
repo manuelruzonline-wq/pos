@@ -1,0 +1,16 @@
+{
+  "name": "Gato Pinto POS",
+  "short_name": "GP POS",
+  "description": "Sistema de Punto de Venta",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ff6b35",
+  "icons": [
+    {
+      "src": "https://gatopinto.com/wp-content/uploads/2024/09/LOGO-GATO-PINTO-OFICIAL-TRANSPARENTE-e1725148988113.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
